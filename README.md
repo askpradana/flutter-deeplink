@@ -1,6 +1,6 @@
 # Deep Link Handler
 
-[![License](https://img.shields.io/badge/license-GNU%20AGPLv3-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/license-GNU%20AGPLv3-blue.svg)](LICENSE.txt)
 [![Flutter](https://img.shields.io/badge/Flutter-%E2%9D%A4-9cf.svg)](https://flutter.dev)
 [![GitHub stars](https://img.shields.io/github/stars/askpradana/flutter-deeplink)](https://github.com/askpradana/flutter-deeplink/stargazers)
 
